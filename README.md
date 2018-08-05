@@ -1,6 +1,7 @@
 Le poids des chiffres
 =============
-Le script est une réponse, en PHP, à l'énigme [Le poids des chiffres](http://www.une-enigme.com/le-poids-des-chiffres-1890.html). 
+Le script est une réponse, en PHP, à l'énigme [Le poids des chiffres](http://www.une-enigme.com/le-poids-des-chiffres-1890.html).
+ 
 Vous pouvez retrouver cette énigme sur le site  [www.une-enigme.com](http://www.une-enigme.com/).
 
 ## Intitulé de base de l'exercice
