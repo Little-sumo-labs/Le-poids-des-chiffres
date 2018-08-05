@@ -1,0 +1,24 @@
+{
+    "name": "Little-sumo-labs/weightOfNumbers",
+    "description": "Formez des nombres de 3 chiffres chacun qui représentant leur poids total, à partir d'un tableau de valeur",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guillaume RICHARD",
+            "email": "contact@guillaume-richard.fr",
+            "homepage": "https://guillaume-richard.fr/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "contact@guillaume-richard.fr",
+        "source": "https://guillaume-richard.fr/"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
