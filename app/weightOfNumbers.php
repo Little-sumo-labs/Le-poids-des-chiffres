@@ -29,7 +29,7 @@ class weightOfNumbers {
             if (strpos($i, '0')) {
                 continue;
             }
-            list($centaine, $dizaine, $unite) = str_split($i);
+            [$centaine, $dizaine, $unite] = str_split($i);
 
             $weight = $numbers[$centaine] + $numbers[$dizaine] + $numbers[$unite];
             if ($i === $weight) {
