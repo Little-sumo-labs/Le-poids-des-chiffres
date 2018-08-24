@@ -19,6 +19,14 @@ Formez 3 nombres de 3 chiffres chacun qui représentent leur poids total ( exemp
 * 8 = 93 Kg
 * 9 = 78 Kg
 
+## Résolution du problème
+Le script résout le problème posé ci-dessus.
+
+Il ne vérifie que les nombres à 3 chiffres (C'est-à-dire les nombres de 100 à 999), sauf ceux qui contiennent un zéro.
+La vérification ne commence réellement qu'au chiffre 111, jusqu'à 999.
+
+Il peut résoudre le problème avec d'autres chiffres de base. Il suffit juste de tester.
+
 ## How to Use it
 Le script est, en lui-même, assez simple.
 * Installation basique de composer, pour la partie "autoloader", et les informations basiques du script.
